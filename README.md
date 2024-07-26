@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📊 Data Analysis & Visualization<br><br>I specialize in extracting valuable insights from data and presenting them in a clear and understandable manner. My expertise includes:<br>- Data Cleaning and Preparation<br>- Statistical Analysis<br>- Data Visualization <br><br>🗃️ Database Administration<br><br>With my experience in database management, I can:<br>- Design, implement, and maintain databases<br>- Optimize database performance<br>- Ensure data integrity and security<br>- Perform backups and recovery</p>
+<p align="left">📊 Data Analysis & Visualization<br><br>I specialize in extracting valuable insights from data and presenting them in a clear and understandable manner. My expertise includes:<br>- Data Cleaning and Preparation<br>- Statistical Analysis<br>- Data Visualization <br><br>
 
 ###
 
